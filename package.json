@@ -4,5 +4,9 @@
   "description": "Starter for typescript demo",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevCurnow/typescript-demo.git"
+  }
 }
